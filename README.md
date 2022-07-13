@@ -2,7 +2,7 @@
 
 <img src="https://github.com/fikrionii/Rock-Paper-Scissors-Image-Classification/blob/main/rock_paper_scissors.png" width="450" height="300" />
 
-In this project, I am using **Convolutional Neural Network (CNN)** to predict classify hand gesture images of rock, paper and scissors.
+In this project, I am using **Convolutional Neural Network (CNN)** to classify hand gesture images of rock, paper and scissors.
 This project is part of [dicoding](dicoding.com) project submission in Machine Learning Developer class.
 
 ## Import Library and Download the Dataset
