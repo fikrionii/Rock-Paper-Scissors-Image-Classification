@@ -20,7 +20,7 @@ We use accuracy for our metrics.
 | Metrics | Training Score | Validation Score |
 | --- | --- | --- |
 | Accuracy | 0,9700 | 1,000 |
-| Loss | 0,1345 | 0,1484 |
+| Loss | 0,0950 | 0,0376 |
 
 ## Recommendation
 Various technique could be used to increase the accuracy and decrease the loss of the model. Some suggestion are:
