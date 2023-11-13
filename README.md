@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors-Image-Classification
 
-<img src="https://github.com/fikrionii/Rock-Paper-Scissors-Image-Classification/blob/main/rock_paper_scissors.png" width="450" height="300" />
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1BEeFoD9iC3PcokE3W8DsUZ_lmKnB_kKK" width="450" height="300" />
 
 In this project, I am using **Convolutional Neural Network (CNN)** to classify hand gesture images of rock, paper and scissors.
 This project is part of [dicoding](dicoding.com) project submission in Machine Learning Developer class.
@@ -18,8 +19,8 @@ For CNN model, we will define the convolutional layer and Pooling layer. We also
 We use accuracy for our metrics. 
 | Metrics | Training Score | Validation Score |
 | --- | --- | --- |
-| Accuracy | 0,9700 | 0,9500 |
-| Loss | 0,1126 | 0,1981 |
+| Accuracy | 0,9700 | 1,000 |
+| Loss | 0,1345 | 0,1484 |
 
 ## Recommendation
 Various technique could be used to increase the accuracy and decrease the loss of the model. Some suggestion are:
